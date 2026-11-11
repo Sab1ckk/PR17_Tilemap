@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de0a076a29481d248950ce8effc8146e, type: 3}
+  m_Name: DecorationData
+  m_EditorClassIdentifier: Assembly-CSharp::TileData
+  tileName: "\u0414\u0435\u043A\u043E\u0440\u0430\u0446\u0438\u044F"
+  description: "\u041E\u043F\u0438\u0441\u0430\u043D\u0438\u0435 \u0442\u0430\u0439\u043B\u0430"
+  tileSprite: {fileID: 21300000, guid: 7a8321483db75fc49bde8d687c4b5269, type: 3}
+  tileColor: {r: 0, g: 1, b: 0, a: 1}
+  colliderType: 0
+  isSolid: 0
+  physicsMaterial: {fileID: 0}
+  category: 4
+  rarity: 0
+  placementCost: 0
